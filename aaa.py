@@ -126,7 +126,7 @@ u=odeint(f,initial,x)
 y=u[:,0]
 plt.plot(x,y)
 
-
+asdf=1234
 
 
 
